@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Erfan(Err-fon), 19 years old, and currently attending the Tech Academy as a student learning their software developer bootcamp full-time remotely.
-- 👀 I’m interested in landing a job in the tech field as an entry-level engineer near or around my graduation.
-- 🌱 I’m currently learning the software developer bootcamp from Tech Academy which covers many popular programming languages and frameworks. Not only do I get to learn HTML, CSS, JavaScript, Python, C#, the .NET framework, but I also get two different two-week projects with my fellow classmates to show to employers that I have some experience working with teams and being able to solve problems independently.
-- 💞️ I’m looking to collaborate on many projects in the future with many different wonderful people so that I can learn more and get to know some amazing people at the same time.
-- 📫 You can reach me at my email: erfanbro46@gmail.com.
+- 👋 Hi, I’m Erfan(Err-fon), 20 years old, I live in Salt Lake City, Utah and I'm currently attending the Tech Academy's Software Developer bootcamp full-time remotely.
+- 👀 I’m interested in landing a job in the tech field as an entry-level software engineer near the end of my graduation.
+- 🌱 The Software Developer bootcamp covers many popular programming languages and frameworks. Not only do I get to learn HTML, CSS, JavaScript, SQL, Python, Django, C#, and the ASP.NET framework, but I also have the opportunity to work on two different two-week projects with my fellow classmates to showcase to employers that I have experience working with teams while also being able to solve problems independently.
+- 💞️ One of the things I'm excited for in my future endeavors as an engineer, is being able to colloborate and network with many different people in the industry as I believe networking allows you to connect with individuals who have different backgrounds, experiences, and expertise. You can learn from their knowledge and experiences, which in turn can help you grow as an engineer.
+- 📫 You can reach me by email: erfanbro46@gmail.com or phone: 385-539-0409
