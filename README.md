@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Erfan(Err-fon), 20 years old, I live in Salt Lake City, Utah and I'm currently attending the Tech Academy's Software Developer bootcamp full-time remotely.
-- 👀 I’m interested in landing a job in the tech field as an entry-level software engineer near the end of my graduation.
-- 🌱 The Software Developer bootcamp covers many popular programming languages and frameworks. Not only do I get to learn HTML, CSS, JavaScript, SQL, Python, Django, C#, and the ASP.NET framework, but I also have the opportunity to work on two different two-week projects with my fellow classmates to showcase to employers that I have experience working with teams while also being able to solve problems independently.
+- 👋 Hi, I’m Erfan(Err-fon), 20 years old, I live in Salt Lake City, Utah, and I have recently graduated from the Tech Academy's Software Developer bootcamp.
+- 👀 I’m interested in joining and being part of your next team project.
+- 🌱 The Software Developer bootcamp covers many popular programming languages and frameworks. Not only do I get to learn HTML, CSS, JavaScript, SQL, Python, and Django but I also have the opportunity to work on a two-week project with my fellow classmates to showcase to employers that I have experience working with teams while also being able to solve problems independently.
 - 💞️ One of the things I'm excited for in my future endeavors as an engineer, is being able to colloborate and network with many different people in the industry as I believe networking allows you to connect with individuals who have different backgrounds, experiences, and expertise. You can learn from their knowledge and experiences, which in turn can help you grow as an engineer.
-- 📫 You can reach me by email: erfanbro46@gmail.com or phone: 385-539-0409
+- 📫 You can reach me by email: erfanarsin99@outlook.com or phone: 385-539-0409
