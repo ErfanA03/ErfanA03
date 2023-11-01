@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Erfan (Pronounced Err-fon), a 20 year-old software engineer from Salt Lake City, Utah, and I have recently graduated from the Tech Academy's software developer bootcamp looking to land a job in the field.
-- 🌱 Over the course of the bootcamp, I was able to get 
-- 💞️ One of the things I'm excited for in my future endeavors as an engineer, is being able to colloborate and network with many different people in the industry as I believe networking allows you to connect with individuals who have different backgrounds, experiences, and expertise. You can learn from their knowledge and experiences, which in turn can help you grow as an engineer.
-- 👀 I’m interested in entry-level positions at your company
-- 📫 You can reach me by email: erfanarsin99@outlook.com or phone: 385-539-0409
+- 👋 Hi, I’m Erfan (Pronounced Err-fon), just turned 20, and I have recently graduated from the Tech Academy's Software Developer bootcamp in my home state of Utah!
+- 🌱 Over the course of the bootcamp, I was able to work on and build multiple projects including a calculator, a tic-tac-toe game, and a bank account app among with many others.
+- 💞️ I also had the wonderful opportunity to work on a 2-week live project with my fellow peers in which we got to build a personal item collections website that we developed using the Django framework. During this time we learned how agile/scrum methodologies are implemented and how it enables a team/company to quickly adapt to changes.
+- 👀 I’m interested in fulfulling the role of an entry-level position at your company so please don't hesitate to reach me by email: erfanarsin99@outlook.com or phone: 385-539-0409.
