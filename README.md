@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erfan (Pronounced Err-fon), currently 20 years old, and I'm a recent graduate from the Tech Academy's Software Developer bootcamp in my home state of Utah!
-- 🌱 Over the course of the bootcamp, I was able to work on and build multiple projects including a calculator, a tic-tac-toe game, and a bank account app among many other awesome tools.
+- 👋 Hello there, I’m Erfan (Pronounced Err-fon), currently 23 years old, and I'm a graduate from The Tech Academy's Software Developer bootcamp in my home state of Utah!
+- 🌱 Over the course of the program, I was able to work on and build multiple projects including a calculator, a tic-tac-toe game, and a bank account app among many other useful tools.
 - 💞️ I also had the wonderful opportunity to work on a 2-week live project with my fellow classmates in which we got to build a personal collector items website that we developed using the Django framework. During this time we learned how agile/scrum methodologies are implemented and how it enables a team/company to quickly adapt to changes.
-- 👀 I’m interested in fulfulling the role of an entry-level developer at your company so please don't hesitate to reach me by email: erfanarsin99@outlook.com or phone: 385-539-0409.
+- 👀 I’m interested in fulfulling the role of an entry-level developer at your company so please don't hesitate to reach me by email: erfanarsin99@outlook.com or phone: 385-539-0409
